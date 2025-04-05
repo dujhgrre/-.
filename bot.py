@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot("7787977250:AAEsD1NrJCDIzubCa9yG0ua3TKxUeUjlGwE")
+bot = telebot.TeleBot("TOKEN")
 
 komand = "/helpeko - как помочь экологии в общем не смотря на возраст"
 
